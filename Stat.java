@@ -1,4 +1,4 @@
-public class PMath
+public class Stat
 {
     public double mean(int [] arr)
     {
